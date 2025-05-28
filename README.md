@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer interested i
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
-### [BudgetWise Personal Finance]https://github.com/naseer-bhat/BudgetWise_Personal_Finance
+### 📄 [BudgetWise Personal Finance]https://github.com/naseer-bhat/BudgetWise_Personal_Finance
 This is the backend service for the BudgetWise Personal Finance application. It provides APIs for managing user accounts, budgets, transactions, and financial reports.
 
 ### 🖥️ [Computer Club Automation](https://github.com/naseer-bhat/computer_club_automation)
