@@ -7,9 +7,11 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer interested i
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
+### [BudgetWise Personal Finance]https://github.com/naseer-bhat/BudgetWise_Personal_Finance
+This is the backend service for the BudgetWise Personal Finance application. It provides APIs for managing user accounts, budgets, transactions, and financial reports.
 
-### 🏨 [Hotels](https://github.com/naseer-bhat/hotels)
-A JavaScript-based application that provides hotel listings and booking functionalities. It showcases dynamic UI components and integrates with external APIs for real-time data.
+### 🖥️ [Computer Club Automation](https://github.com/naseer-bhat/computer_club_automation)
+An event management system tailored for computer clubs. It automates event scheduling, participant registration, and feedback collection.
 
 ### 📄 [Certificate Validation System](https://github.com/naseer-bhat/Certificate-validation-system)
 A secure system to validate certificates using unique identifiers. Built with JavaScript, it ensures authenticity and prevents fraudulent activities.
@@ -17,8 +19,8 @@ A secure system to validate certificates using unique identifiers. Built with Ja
 ### 🔢 [Counter App](https://github.com/naseer-bhat/counterApp)
 A simple yet effective counter application demonstrating state management and user interactions using JavaScript.
 
-### 🖥️ [Computer Club Automation](https://github.com/naseer-bhat/computer_club_automation)
-An event management system tailored for computer clubs. It automates event scheduling, participant registration, and feedback collection.
+### 🏨 [Hotels](https://github.com/naseer-bhat/hotels)
+A JavaScript-based application that provides hotel listings and booking functionalities. It showcases dynamic UI components and integrates with external APIs for real-time data.
 
 ---
 
