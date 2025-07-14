@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer interested i
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
-### 📄 [BudgetWise Personal Finance](https://github.com/naseer-bhat/BudgetWise_Personal_Finance)
-This is the backend service for the BudgetWise Personal Finance application. It provides APIs for managing user accounts, budgets, transactions, and financial reports.
+ ### AI Prompt Evaluator
+ A full-stack web app that evaluates the quality of user-submitted prompts using Gemini AI, scores them, and provides intelligent feedback. Built with MERN stack (MongoDB, Express, React, Node.js) and includes JWT authentication.
 
 ### 🖥️ [Computer Club Automation](https://github.com/naseer-bhat/computer_club_automation)
 An event management system tailored for computer clubs. It automates event scheduling, participant registration, and feedback collection.
