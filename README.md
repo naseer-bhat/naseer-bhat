@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer interested i
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 Here are some of the projects I've worked on:
 
 ### 🤖 [AI Prompt Evaluator](https://github.com/naseer-bhat/promptEvaluator) | [Live Demo](https://checkprompt.vercel.app/)
